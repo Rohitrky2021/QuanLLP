@@ -179,8 +179,7 @@ Follow these steps to set up the Cryptonite application on your local machine:
 - **UI Creativity:** Explore and use creativity to come up with a unique yet usable UI.
 
 ## Brownie Points
-- **Dynamic Theme Switching:** Implement a dynamic theme-switching feature for toggling between Light and Dark modes.
-- **Server-Side Rendering:** Utilize Next.js's server-side rendering capabilities.
+ - **Server-Side Rendering:** Utilize Next.js's server-side rendering capabilities.
 - **Search Bar Suggestions:** Integrate a feature in the search bar to display recently searched items as suggestions.
 - **Mock Live Price Ticker:** Simulate a live price ticker using a Pub-Sub mechanism, providing real-time updates on the product page.
  
